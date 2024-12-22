@@ -1,8 +1,15 @@
-# React + Vite
+# ExoApe Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a clone of the award-winning website **ExoApe**. It was built using modern web development tools to replicate the design and functionality of the original.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: For building the user interface.
+- **Tailwind CSS**: For styling and layout.
+- **Locomotive Scroll**: For smooth scrolling and immersive effects.
+- **GSAP**: For advanced animations.
+- **Framer Motion**: For interactive animations and transitions.
+
+## Live Demo
+
+Check out the live version of the website here: [ExoApe Clone](https://exo-ape-u7v3.vercel.app/)  
