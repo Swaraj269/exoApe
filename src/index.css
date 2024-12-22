@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'light';
+  src: url('./assets/Fonts/TWKLausanne-300.b6399e7.woff2');
+}
+@font-face {
+  font-family: 'medium';
+  src: url('./assets/Fonts/TWKLausanne-400.c74d82a.woff2');
+}
+@font-face {
+  font-family: 'bold';
+  src: url('./assets/Fonts/TWKLausanne-500.eb0ea77.woff2');
+}
+
+*{
+  font-family: 'medium';
+}
+.videoimg{
+  transition: all 0.5s ease-out;
+}
+
+.video:hover .videoimg{
+  opacity: 0;
+}
